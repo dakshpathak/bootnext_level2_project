@@ -4,13 +4,20 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is developed by Daksh Pathak for the round 2 assessment of Bootnext.
+The project required to develop a dynamic screen which consists of several widgets like charts, lists, etc.
+The dependencies which has been used in this project are :   
 
-A few resources to get you started if this is your first Flutter project:
+flutter_screenutil: ^5.9.0
+fl_chart: ^0.64.0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter_screenutil: ^5.9.0 - A flutter plugin for adapting screen and font size.Let your UI display a reasonable 
+layout on different screen sizes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+fl_chart: FL Chart is a highly customizable Flutter chart library that supports Line Chart, 
+Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
+
+Custom widgets which I've used are:
+Tabs.dart
+text_widget.dart
+linechart.dart

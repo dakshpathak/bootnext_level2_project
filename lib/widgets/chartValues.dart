@@ -10,6 +10,8 @@ class Price {
 List<Price> get priceData {
   final data = <double>[2, 4, 6, 10, 8, 9, 50];
 
-  return data.mapIndexed((index, element) =>
-      Price(x: index.toDouble(), y: index.toDouble())).toList();
+  return data
+      .mapIndexed(
+          (index, element) => Price(x: index.toDouble(), y: index.toDouble()))
+      .toList();
 }

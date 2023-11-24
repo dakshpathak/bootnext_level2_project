@@ -49,14 +49,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.6"
-  custom_text:
-    dependency: "direct main"
-    description:
-      name: custom_text
-      sha256: "14f4dafc595940335cd5684e5e3e64de97f639570b7911227c6a2c498ad04da8"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.0"
   equatable:
     dependency: transitive
     description:
@@ -147,14 +139,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.3"
-  size_config:
-    dependency: "direct main"
-    description:
-      name: size_config
-      sha256: "912d8e55bb563a71e30f66be0719d2a6437c3500adb01b9e52681dc2362d62e0"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.3"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -208,14 +192,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.0"
-  text_parser:
-    dependency: transitive
-    description:
-      name: text_parser
-      sha256: "7e2edba3516286211d6741842adb21b9105dd179cf69799dab5eb5ac0981c9ca"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.0"
   vector_math:
     dependency: transitive
     description:
