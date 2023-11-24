@@ -9,7 +9,7 @@ class LineChartWidget extends StatelessWidget {
 
   const LineChartWidget(this.points, {Key? key}) : super(key: key);
 
-  3
+
   @override
   Widget build(BuildContext context) {
     return LineChart(LineChartData(lineBarsData: [
